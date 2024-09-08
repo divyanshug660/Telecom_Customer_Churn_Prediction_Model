@@ -26,16 +26,16 @@ Achieved an accuracy of 83.01%.
 26.6% of customers switched from the current firm to another.
 
 **Gender Demographics:**
-49.5% female and 50.5% male.
+49.5% were female, and 50.5% were male.
 
 **Contract Type and Churn:**
-75% of customers with month-to-month contracts churned. In contrast, only 13% with one-year contracts and 3% with two-year contracts churned.
+75% of customers with month-to-month contracts churned, while only 13% with one-year contracts and 3% with two-year contracts churned.
 
 **Payment Method:**
-Customers using Electronic Check as a payment method exhibited the highest churn rate. Customers who used Credit-Card Automatic Transfer, Bank Automatic Transfer, and Mailed Check were less likely to churn.
+Customers who used Electronic Check as a payment method exhibited the highest churn rate. Customers who used Credit-Card Automatic Transfer, Bank Automatic Transfer, and Mailed Check were less likely to churn.
 
 **Service Type and Churn:**
-Fiber Optic service customers showed a higher churn rate, suggesting potential dissatisfaction with the service. DSL service users had a lower churn rate.
+Fiber Optic service customers had a higher churn rate, suggesting potential dissatisfaction with the service. DSL service users had a lower churn rate.
 
 **Dependents:**
 Customers without dependents were more likely to churn compared to those with dependents.
@@ -47,13 +47,15 @@ Surprisingly, customers with partners were more likely to churn.
 The absence of online security services increased the likelihood of churn.
 
 **Paperless Billing:**
-Customers using paperless billing were more likely to churn.
+Customers who used paperless billing were more likely to churn.
 
 **Technical Support:**
 Lack of tech support contributed to a higher churn rate.
 
 **Phone Service:**
-A small fraction of customers without phone services showed a higher tendency to churn.
+A small fraction of customers without phone services were more likely to churn.
+
+
 
 ## **Conclusion**
 
