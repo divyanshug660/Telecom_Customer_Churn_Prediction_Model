@@ -5,10 +5,15 @@ This project focuses on customer churn analysis and prediction using a Random Fo
 ## **Tools_And_Techniques**
 
 **Data Cleaning:** Removal of missing alues and irrelevant features.
+
 **Exploratory Data Analysis (EDA):** Investigation of patterns and trends in the data.
+
 **Interactive Visualization:** Created interactive visualizations to represent key trends.
+
 **Random Forest Model:** Used for churn prediction.
+
 **SMOTE (Synthetic Minority Oversampling Technique):** Applied to balance the dataset by oversampling the minority class (churned customers).
+
 **Performance Evaluation:** Achieved an accuracy of 83.01%.
 
 ## **Key Inferences:**
